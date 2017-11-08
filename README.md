@@ -14,6 +14,6 @@ the approach used here is based on :
 
 Public Score on kaggle 0.962
 
-Private SCore on kaggle 0.958
+Private Score on kaggle 0.958
 
 Best Score on kaggle 0.995
